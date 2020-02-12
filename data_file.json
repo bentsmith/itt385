@@ -1,0 +1,16 @@
+{
+	"year" : 2019,
+	"odd_numbers" : [1,3,5,7],
+	"our_dictionary" : {"key1" : "val1", "key2" : "val2"},
+	"our_car" : {
+		"color" : "red",
+		"year" : 2017,
+		"make" : "tesla",
+
+		"tire" : {
+			"color" : "black",
+			"year" : 2017,
+			"make" : "goodyear"
+		}
+	}
+}
